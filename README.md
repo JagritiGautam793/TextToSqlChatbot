@@ -1,4 +1,4 @@
-# Text-to-SQL Chatbot
+# QueryAi
 
 The **Text-to-SQL Chatbot** is an AI-powered application that allows users to query databases using **natural language instead of writing SQL queries**. The system leverages **Large Language Models (LLMs)** to translate user questions into SQL statements and retrieves relevant results from a **MySQL database**.
 
